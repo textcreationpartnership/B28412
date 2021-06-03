@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prodigal son converted, or The young-man return'd from his rambles Wit ne're till now, was cry'd about the street, at the low rate o[f] a poor penny sheet; sharp times will make sharp wits, not fear sharp tongues, 'tis we who money want which suffer wrongs; you can't command a poet with a frown to write new songs: but yours, for a crown: here's that will please you sure, and much befriend ye. You'll thank the author, if the devil be n't in ye. To a pleasant new play-house tune call'd The delight of the bottle, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28412</idno><idno type="EEBO-CITATION">99827883</idno>
+  <idno type="VID">198056</idno>
+  <idno type="EEBO-PROQUEST">2240922301</idno>
+  
+            <idno type="STC">Wing P3643</idno>
+            <idno type="PROQUEST">99827883</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827883e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28412)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198056)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:188-189)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prodigal son converted, or The young-man return'd from his rambles Wit ne're till now, was cry'd about the street, at the low rate o[f] a poor penny sheet; sharp times will make sharp wits, not fear sharp tongues, 'tis we who money want which suffer wrongs; you can't command a poet with a frown to write new songs: but yours, for a crown: here's that will please you sure, and much befriend ye. You'll thank the author, if the devil be n't in ye. To a pleasant new play-house tune call'd The delight of the bottle, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for R, [sic] Burton, at the Horse-shooe in West-Smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1665?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "The delights [and] the pleasures".</note>
+                  <note>Place of publication from and date conjectured by Wing.</note>
+                  <note>In two parts; woodcuts at head of first part.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:198056:1"/>
+            <head>The Prodigal Son Converted, OR The Young-man return'd from his Rambles.</head>
+            <argument>
+               <l>Wit ne're till now, was cry'd about the street,</l>
+               <l>At the low rate o a poor Penny sheet;</l>
+               <l>Sharp times will make sharp wits, not fear sharp tongues,</l>
+               <l>'Tis we who money want which suffer wrongs;</l>
+               <l>You can't command a Poet with a frown</l>
+               <l>To write new Songs: but yours, for a Crown:</l>
+               <l>Here's that w ll please you sure, and much befreind ye.</l>
+               <l>You'll thank the Author, if the Devil be n't in ye.</l>
+            </argument>
+            <opener>To a pleasant New Play-house Tune call'd <hi>The Delights of the Bottle,</hi> &amp;c.</opener>
+            <p>
+               <figure/>
+               <figure/>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>THe delights &amp; the pleasures</l>
+                  <l>of a man without care,</l>
+                  <l>For the present are swéet,</l>
+                  <l>but ith' end prove a snare,</l>
+                  <l>The extravagant youth,</l>
+                  <l>who in Frolicks runs mad,</l>
+                  <l>Being vitious o're much,</l>
+                  <l>will have cause to be sad.</l>
+                  <l>Debauches are sorrows,</l>
+                  <l>and robs us of rest,</l>
+                  <lg type="refrain">
+                     <l>Tis the temperate man</l>
+                     <l>with enioyment is blest.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>From fifteen till thirty</l>
+                  <l>just halfe of my time,</l>
+                  <l>I have lived in excess,</l>
+                  <l>and have thought it no crime.</l>
+                  <l>My Father being dead,</l>
+                  <l>I was left a young fool,</l>
+                  <l>Companion for none,</l>
+                  <l>but for boys in the school,</l>
+                  <l>Debauches are sorrows</l>
+                  <l>and robs us of rest</l>
+                  <lg type="refrain">
+                     <l>Tis the temperate man</l>
+                     <l>with, enjoyment is blest.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Then some of my friends</l>
+                  <l>did begin for so that</l>
+                  <l>That I had an estate</l>
+                  <l>I soon hearken'd to that,</l>
+                  <l>And I quickly sound Tutors</l>
+                  <l>to show me the way,</l>
+                  <l>In ranting and roaring</l>
+                  <l>to spend night and day;</l>
+                  <l>These tickl'd my fancy</l>
+                  <l>with vice all a-mode,</l>
+                  <lg type="refrain">
+                     <l>Then I must be riding</l>
+                     <l>in that pleasant Road,</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I quickly arriv'd</l>
+                  <l>to a wretched estate</l>
+                  <l>To act what the Devil</l>
+                  <l>could think or Creat,</l>
+                  <l>But since they are past</l>
+                  <l>I will count it no sin</l>
+                  <l>To name them in order</l>
+                  <l>as I did begin.</l>
+                  <l>But my chief delight</l>
+                  <l>was in vice all-a-mode,</l>
+                  <lg type="refrain">
+                     <l>And I often was riding</l>
+                     <l>in that pleasant Road</l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:198056:1"/>
+               <head>The Second part,</head>
+               <opener>To the same Tune.</opener>
+               <lg>
+                  <l>FIrst the Tavern me courted</l>
+                  <l>to lend it some coin,</l>
+                  <l>And to taste of these blessings</l>
+                  <l>that sprang from the vine,</l>
+                  <l>Which I found to be pleasant</l>
+                  <l>and always inviting</l>
+                  <l>So sweet is that sin,</l>
+                  <l>which we most do delight in</l>
+                  <l>The Fidlers to curse</l>
+                  <l>and the drawers command</l>
+                  <lg type="refrain">
+                     <l>Is enough for those Fops</l>
+                     <l>who no more understand.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Bottles of <hi>Bacchus</hi>
+                  </l>
+                  <l>did my strength overcome,</l>
+                  <l>And with empty Pockets</l>
+                  <l>sent me realing home,</l>
+                  <l>Sick qualms of the stomach</l>
+                  <l>did blame my hard drinking,</l>
+                  <l>But I counted repentance</l>
+                  <l>was scarce worth my thinking;</l>
+                  <l>The Fidlers to curse</l>
+                  <l>and the drawers command</l>
+                  <lg type="refrain">
+                     <l>Is enough for those Fops</l>
+                     <l>who no more understand.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Then high for a Wench</l>
+                  <l>when my blood it was warm,</l>
+                  <l>If she were but in rags</l>
+                  <l>she might easily charm,</l>
+                  <l>And enjoy all I had</l>
+                  <l>if she seem'd to be kind;</l>
+                  <l>And would simper out Bawdy</l>
+                  <l>to tickle my mind;</l>
+                  <l>Then home to her lodging</l>
+                  <l>she might easily draw me,</l>
+                  <lg type="refrain">
+                     <l>My flames made me bold</l>
+                     <l>that I car'd not who saw me.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Though it was but a hole</l>
+                  <l>where this Lady did ly,</l>
+                  <l>Yet she made me amends</l>
+                  <l>you shall hear by and by</l>
+                  <l>With a kiss and a smile</l>
+                  <l>and a sigh all-a-mode</l>
+                  <l>She guided my hand to</l>
+                  <l>the very right Road,</l>
+                  <l>Which home to her lodging</l>
+                  <l>full often did draw me</l>
+                  <lg type="refrain">
+                     <l>My joyes were so great</l>
+                     <l>that I car'd not who saw me.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>T<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at sport I soon learn'd,</l>
+                  <l>and that which is worse,</l>
+                  <l>She taught me to swear</l>
+                  <l>to damn and to curse,</l>
+                  <l>That in half a years time</l>
+                  <l>I had practic'd so well,</l>
+                  <l>That for drinking and whoring</l>
+                  <l>ther's none did excells,</l>
+                  <l>For swearing and cursing</l>
+                  <l>in common discourse,</l>
+                  <lg type="refrain">
+                     <l>I thought, if left out,</l>
+                     <l>made my language the worse.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Then next to accomplish</l>
+                  <l>my self like a man,</l>
+                  <l>I must learn for to game well,</l>
+                  <l>as fast as I can:</l>
+                  <l>With some Bully Hector,</l>
+                  <l>I must venture a pound,</l>
+                  <l>There's enough of those blades</l>
+                  <l>that may quickly be found,</l>
+                  <l>Forswearing and cursing</l>
+                  <l>in common discourse,</l>
+                  <lg type="refrain">
+                     <l>And to win all my Guinneys</l>
+                     <l>which I <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hought much worse,</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>All which by degrees</l>
+                  <l>my estate did so waste,</l>
+                  <l>I began to think that</l>
+                  <l>I made too much hasse</l>
+                  <l>Being cloy'd with enjoymen<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</l>
+                  <l>of such foolish pleasure,</l>
+                  <l>I'le now lead my life in</l>
+                  <l>a tempera<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e measure</l>
+                  <l>Yet with a true friend</l>
+                  <l>merry and jolly,</l>
+                  <lg type="refrain">
+                     <l>With a Bottle or two</l>
+                     <l>I do count it no folly.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>What we drink in exce<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</l>
+                  <l>makes the appetite dull,</l>
+                  <l>And empties the bags</l>
+                  <l>be they never so full:</l>
+                  <l>It shortens our lives</l>
+                  <l>and deprives us of heal<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h</l>
+                  <l>Then Young men beware</l>
+                  <l>and make much of your weal<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h</l>
+                  <l>Yet with a true friend</l>
+                  <l>to be merry and jolly,</l>
+                  <lg type="refrain">
+                     <l>With a Bottle or two</l>
+                     <l>I do count it no folly.</l>
+                  </lg>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> R, Burton, <hi>at the</hi> Horse-shooe <hi>in</hi> West-Smithfield.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
